@@ -5,27 +5,27 @@ import MealItem from "./MealItem/MealItem";
 const DUMMY_MEALS = [
     {
         id: 'm1',
-        name: 'Sushi',
-        description: 'Finest fish and veggies',
-        price: 22.99,
+        name: 'Paneer Bhurji',
+        description: 'Scrambled paneer',
+        price: 139.00,
     },
     {
         id: 'm2',
-        name: 'Schnitzel',
-        description: 'A german specialty!',
-        price: 16.5,
+        name: 'Kadhai Soya Chaap',
+        description: 'Vegetarian food prepared with soyabean chunks and curry',
+        price: 149.00,
     },
     {
         id: 'm3',
-        name: 'Barbecue Burger',
-        description: 'American, raw, meaty',
-        price: 12.99,
+        name: 'Malai Kofta',
+        description: 'Fried balls with cream',
+        price: 119.00,
     },
     {
         id: 'm4',
-        name: 'Green Bowl',
-        description: 'Healthy...and green...',
-        price: 18.99,
+        name: 'Mix Veg',
+        description: 'Diced vegetables cooked on low heat for long time',
+        price: 99.00,
     },
 ];
 const AvailableMeals = () => {
